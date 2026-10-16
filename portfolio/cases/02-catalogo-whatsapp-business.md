@@ -1,86 +1,76 @@
-# Organização de catálogo e atendimento no WhatsApp Business
+# Organização de Catálogo Digital e Atendimento no WhatsApp Business
 
-**Autora:** Caroline de Santana  
-**Ano:** 2024  
-**Contexto:** experiência profissional no Mercadão de Carnes Pantanal  
-**Ferramenta principal:** WhatsApp Business  
-**Status:** melhoria implementada durante minha atuação na empresa.
+- **Autora:** Caroline de Santana
+- **Ano:** 2024
+- **Contexto:** Experiência profissional no Mercadão de Carnes Pantanal
+- **Ferramentas Principais:** WhatsApp Business e Canva
+- **Status:** Melhoria implantada durante minha atuação na empresa ✅
 
-## Contexto e problema
+---
 
-O estabelecimento já utilizava WhatsApp Business, mas não possuía um catálogo organizado nem divulgação diária dos produtos.
+## 📌 Contexto e Problema
+O estabelecimento já possuía uma conta no WhatsApp Business, mas não contava com um catálogo estruturado nem com divulgação diária e padronizada dos produtos.
 
-Os clientes precisavam entrar em contato para consultar informações, como preços e produtos disponíveis. Parte dessas consultas chegava por telefone ao caixa, junto às outras demandas do atendimento.
+Para consultar preços e disponibilidade de itens, os clientes precisavam entrar em contato direto a todo momento. Grande parte dessas dúvidas chegava por telefone diretamente ao caixa, acumulando-se com o atendimento presencial e outras demandas operacionais da loja.
 
-Identifiquei uma oportunidade de facilitar o acesso às informações utilizando uma ferramenta que a loja já possuía.
+A partir desse gargalo no dia a dia, identifiquei a oportunidade de desafogar o atendimento e facilitar o acesso às informações utilizando uma ferramenta digital que a empresa já possuía, sem gerar custos extras de implantação.
 
-## Objetivo
+## 🎯 Objetivo
+Organizar e padronizar a apresentação dos produtos no canal digital, agilizar consultas de preços e realização de pedidos, reduzir a sobrecarga no caixa e apoiar a divulgação comercial.
 
-Organizar a apresentação dos produtos no canal digital, facilitar consultas e pedidos e apoiar a divulgação comercial.
+---
 
-## Minha atuação
+## 👩‍💻 Minha Atuação
+- **Produção e Padronização Visual:** Fotografei os produtos e criei materiais visuais de promoção utilizando o Canva.
+- **Estruturação de Dados do Catálogo:** Cadastrei nomes padronizados, fotos reais e preços atualizados dos produtos (incluindo valores por quilo) no catálogo do WhatsApp Business.
+- **Divulgação Digital:** Realizei a publicação recorrente de ofertas pelo canal digital para estimular as vendas.
+- **Ação Promocional e Engajamento:** Propus e ajudei a organizar uma campanha comercial com sorteio de uma *Airfryer*, conectando as compras da loja ao engajamento no perfil do Instagram. *(A gestão financeira da campanha ficou sob responsabilidade do proprietário, enquanto minha atuação focou na operação e divulgação digital).*
 
-- Fotografei os produtos para apresentação no catálogo.
-- Cadastrei nomes, fotos e preços, incluindo valores por quilo.
-- Realizei a divulgação de ofertas pelo canal digital.
-- Propus e ajudei a organizar uma campanha com sorteio de uma air fryer, associada a compras e ao acompanhamento do Instagram.
+---
 
-A parte financeira da campanha ficou sob responsabilidade do proprietário.
+## 💡 Mapeamento: Necessidades e Solução
+Esta tabela organiza retrospectivamente as necessidades identificadas na operação e as ações implantadas:
 
-Minha contribuição foi organizar e ampliar o uso do WhatsApp Business existente.
+| Necessidade Identificada | Ação / Solução Implantada |
+| :--- | :--- |
+| Facilitar a consulta de produtos | Organização e categorização do catálogo digital no WhatsApp Business |
+| Apresentar informações com clareza | Cadastro padronizado de fotos reais, nomes dos cortes e preços por quilo |
+| Divulgar ofertas com frequência | Criação de artes promocionais e publicação diária de promoções no canal |
+| Apoiar e agilizar pedidos pelo WhatsApp | Disponibilização prévia das informações para consulta rápida durante o atendimento |
+| Incentivar o relacionamento com clientes | Apoio na campanha comercial integrada ao Instagram da loja |
 
-## Necessidades e solução
+---
 
-| Necessidade identificada | Ação realizada |
-| --- | --- |
-| Facilitar a consulta de produtos | Organização do catálogo digital |
-| Apresentar informações com clareza | Cadastro de fotos, nomes e preços |
-| Divulgar ofertas | Publicação de promoções pelo canal |
-| Apoiar pedidos pelo WhatsApp | Disponibilização das informações para consulta durante o atendimento |
-| Incentivar o relacionamento com clientes | Apoio à campanha comercial ligada ao Instagram |
+## 🔄 Mudança no Processo de Atendimento e Perfil de Usuários
+- **Antes da implantação:** Os clientes dependiam exclusivamente do contato direto (ligações ou mensagens avulsas) para descobrir preços e produtos disponíveis.
+- **Depois da implantação:** O cliente passou a contar com uma vitrine de autoatendimento no próprio WhatsApp, tornando a conversa mais objetiva e acelerando o fechamento dos pedidos.
+- **Atenção aos diferentes perfis de público (UX):** O atendimento telefônico tradicional foi mantido em paralelo, garantindo acessibilidade para clientes idosos que preferiam ligar, enquanto moradores de condomínios e apartamentos próximos passaram a adotar fortemente o catálogo digital.
 
-Esta tabela organiza retrospectivamente as necessidades e ações relatadas para apresentação no portfólio.
+## 📈 Observações Qualitativas
+Durante minha atuação após a melhoria, observei que:
+1. Clientes residentes em apartamentos passaram a consultar produtos/preços de forma autônoma e a enviar pedidos já estruturados pelo WhatsApp.
+2. Houve redução perceptível de parte das ligações repetitivas de consulta de preço que chegavam ao caixa.
 
-## Mudança no processo de atendimento
+*(Nota de transparência: Estes resultados representam observações qualitativas da operação diária. Não houve medição estatística formal do volume de pedidos, da taxa de redução de chamadas ou do impacto exato no faturamento).*
 
-Antes da organização do catálogo, os clientes dependiam mais do contato direto para obter informações sobre os produtos.
+---
 
-Com o catálogo, passaram a contar com uma opção de consulta pelo WhatsApp, facilitando a conversa e a realização de pedidos.
+## 🛠️ Competências Demonstradas
+- Identificação proativa de oportunidades de melhoria operacional.
+- Análise e otimização de processos de atendimento ao cliente.
+- Organização, categorização e padronização de informações comerciais.
+- Aproveitamento estratégico de ferramentas digitais existentes (WhatsApp Business e Canva).
+- Empatia e adaptação a diferentes perfis de usuários (clientes digitais vs. público idoso).
+- Comunicação clara com clientes e colaboração direta com a liderança do negócio.
 
-O atendimento por telefone continuou disponível e permaneceu sendo utilizado, inclusive por clientes idosos.
+## 📚 Aprendizados e Visão de Tecnologia
+A experiência demonstrou na prática como a simples organização de dados e informações pode destravar o atendimento e apoiar a operação comercial de um negócio local. Também evidenciou a importância de manter múltiplos canais de contato respeitando os hábitos de cada faixa etária de clientes.
 
-## Resultados observados
+**Lição sobre Gestão de Dados e Continuidade (Backup):** Posteriormente, uma troca de número de telefone na empresa acabou levando à perda do catálogo cadastrado diretamente no aplicativo. Esse episódio reforçou um aprendizado fundamental da área de Tecnologia da Informação: **a importância de manter backups externos (como planilhas de produtos e pastas de mídia organizadas) e planejar a continuidade dos dados**, evitando que informações importantes fiquem presas a uma única conta ou dispositivo.
 
-Durante minha atuação, observei que clientes de apartamentos passaram a consultar produtos e preços e a fazer pedidos pelo WhatsApp.
+---
 
-Também percebi redução de parte das ligações recebidas no caixa.
-
-Esses resultados são observações qualitativas da minha experiência. Não houve medição formal do volume de pedidos, da redução de chamadas ou do faturamento.
-
-## Competências demonstradas
-
-- Identificação de oportunidades de melhoria.
-- Análise do processo de atendimento.
-- Organização e padronização de informações.
-- Utilização de uma ferramenta digital existente.
-- Comunicação com clientes.
-- Colaboração com o responsável pelo negócio.
-- Atenção a diferentes perfis de usuários.
-
-## Aprendizados
-
-A experiência mostrou como a organização das informações pode facilitar o atendimento e apoiar uma operação comercial.
-
-Também evidenciou a importância de manter diferentes canais de contato, considerando os hábitos e as necessidades dos clientes.
-
-Posteriormente, a troca do número de telefone levou à perda do catálogo. Esse acontecimento reforçou a importância de planejar a continuidade e a manutenção das informações dos canais digitais.
-
-## Evidências e limites
-
-Este estudo de caso foi documentado a partir da minha experiência profissional.
-
-O catálogo original não está disponível nesta publicação. Não há capturas de tela ou indicadores quantitativos anexados.
-
-Nenhum dado pessoal de clientes é publicado.
-
-[Voltar ao portfólio](../README.md)
+## 📂 Evidências e Limites
+- Este estudo de caso foi documentado a partir da minha experiência profissional real.
+- Em função da troca posterior do número telefônico pelo estabelecimento, o catálogo ativo original não está mais disponível no aplicativo.
+- Nenhum dado pessoal ou contato de clientes é exposto nesta documentação.
