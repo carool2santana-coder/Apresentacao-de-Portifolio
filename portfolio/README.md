@@ -14,28 +14,28 @@ Projeto acadêmico desenvolvido a partir do levantamento de necessidades de entr
 
 **Competências:** levantamento de necessidades, organização de informações e definição de solução.
 
-[Conhecer o case](cases/01-controle-financeiro-motoboys.md)
+[Conhecer o case](casos/01-controle-financeiro-motoboys.md)
 
 ### 02 · Catálogo e atendimento no WhatsApp Business
 Organização de catálogo digital no Mercadão de Carnes Pantanal, com fotos, nomes e preços dos produtos, facilitando consultas e pedidos pelo WhatsApp.
 
 **Competências:** análise de processos, organização de catálogo e melhoria do atendimento.
 
-[Conhecer o case](cases/02-catalogo-whatsapp-business.md)
+[Conhecer o case](casos/02-catalogo-whatsapp-business.md)
 
 ### 03 · Site de floricultura
 Participação em projeto acadêmico em equipe, utilizando HTML, CSS e JavaScript. Minha responsabilidade foi a seção institucional do site.
 
 **Competências:** delimitação de escopo, colaboração e desenvolvimento web básico.
 
-[Conhecer o case](cases/03-site-floricultura.md)
+[Conhecer o case](casos/03-site-floricultura.md)
 
 ### 04 · Pesquisa de saúde mental no trabalho
 Elaboração de formulário anônimo, análise das respostas e produção de relatório com propostas encaminhadas ao RH. As propostas não foram implantadas.
 
 **Competências:** coleta de informações, análise e documentação de propostas.
 
-[Conhecer o case](cases/04-pesquisa-saude-mental.md)
+[Conhecer o case](casos/04-pesquisa-saude-mental.md)
 
 ### 05 · Missão E-Lixo
 Projeto de educação ambiental com apresentação ilustrada, personagem educativa, dinâmica de classificação de resíduos e guia digital com pontos de coleta.
@@ -44,7 +44,7 @@ Projeto de educação ambiental com apresentação ilustrada, personagem educati
 
 **Competências:** planejamento, comunicação com o público e organização de informações digitais.
 
-[Conhecer o case](cases/05-missao-e-lixo.md)
+[Conhecer o case](casos/05-missao-e-lixo.md)
 
 ## Projetos em estruturação
 
